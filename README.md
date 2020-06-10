@@ -1,1 +1,1 @@
-# cg_assignment
+CG MINI-PROJECT
